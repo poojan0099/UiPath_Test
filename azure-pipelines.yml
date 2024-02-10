@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  Default
+  Poojan
 
 steps:
 - script: echo Hello, world!
